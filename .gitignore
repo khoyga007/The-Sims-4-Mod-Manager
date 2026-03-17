@@ -1,0 +1,23 @@
+# Python caches
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Logs
+*.log
+
+# Sensitive/Local Configs
+config.json
+history.json
+history_message.txt
+kemono_update.txt
+
+# Temp/Backup files
+*.bak
+_staging/
+_unpack_*/
+test_merge/
+
+# OS files
+.DS_Store
+Thumbs.db
